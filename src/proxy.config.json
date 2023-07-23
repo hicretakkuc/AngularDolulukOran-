@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+      "target": "https://localhost:44365/swagger/index.html",
+      "secure": false,
+      "logLevel": "debug"
+  }
+}
